@@ -2159,9 +2159,9 @@ async-limiter@~1.0.0:
   integrity sha512-csOlWGAcRFJaI6m+F2WKdnMKr4HhdhFVBk0H/QbJFMCr+uO2kwohwXQPxw/9OCxp05r5ghVBFSyioixx3gfkNQ==
 
 async@^2.6.2:
-  version "2.6.3"
-  resolved "https://registry.yarnpkg.com/async/-/async-2.6.3.tgz#d72625e2344a3656e3a3ad4fa749fa83299d82ff"
-  integrity sha512-zflvls11DCy+dQWzTW2dzuilv8Z5X/pjfmZOWba6TNIVDm+2UDaJmXSOXlasHKfNBs8oo3M0aT50fDEWfKZjXg==
+  version "2.6.4"
+  resolved "https://registry.yarnpkg.com/async/-/async-2.6.4.tgz#706b7ff6084664cd7eae713f6f965433b5504221"
+  integrity sha512-mzo5dfJYwAn29PeiJ0zvwTo04zj8HDJj0Mn8TD7sno7q12prdbnasKJHhkm2c1LgrhlJ0teaea8860oxi51mGA==
   dependencies:
     lodash "^4.17.14"
 
@@ -6497,9 +6497,9 @@ lodash.uniq@^4.5.0:
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
 "lodash@>=3.5 <5", lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.5:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 loglevel@^1.6.6:
   version "1.6.7"
@@ -7548,6 +7548,21 @@ pify@^4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/pify/-/pify-4.0.1.tgz#4b2cd25c50d598735c50292224fd8c6df41e3231"
   integrity sha512-uB80kBFb/tfd68bVleG9T5GGsGPjJrLAUpR5PZIrhBnIaRTQRjqdJSsIKkOP6OAIFbj7GOrcudc5pNjZ+geV2g==
+
+pigeon-maps@^0.15.0:
+  version "0.15.0"
+  resolved "https://registry.yarnpkg.com/pigeon-maps/-/pigeon-maps-0.15.0.tgz#219183131007f27ce4d84363baa90c5b7fd3700c"
+  integrity sha512-8Qz+mEtuJfzFeTfN8YP57z0FLsmNnP+QIkWH3Fq7HJ/TRFIGQYy/G18d3MbgWtW7hCGev31sbMx05r5TqaT1ZQ==
+
+pigeon-marker@^0.3.4:
+  version "0.3.4"
+  resolved "https://registry.yarnpkg.com/pigeon-marker/-/pigeon-marker-0.3.4.tgz#bd00dd15a4e7622a77dc43fb746e256af5fa5f47"
+  integrity sha512-6sQoSI8Mii7eWWz3TorssbNmptVoP4heKMDt27AeU8I//MFQfQZS6JfCmW3zXF4a6dk4uisr4m26akUYSblfnQ==
+
+pigeon-overlay@^0.2.3:
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/pigeon-overlay/-/pigeon-overlay-0.2.3.tgz#46d08f5661ddb84309549cb2ff45df6c62a71e8d"
+  integrity sha512-mkHwYzDdzdd45XmWW3RB6Vxi0cj1F2CWRzFS8lyDmZcKiruKwhoAa4D3d/hfoO/R3TeHK3IJNNoVV02hP2PJ6Q==
 
 pinkie-promise@^2.0.0:
   version "2.0.1"
